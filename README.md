@@ -1,7 +1,10 @@
 
+## Informations
 Anis AMMAR 
 Ingénieur Inofrmatique + Master en web (en cours)
-2 mois ou +++ ![alt text](image.png)
+2 mois ou +++ 
+
+![alt text](image.png)
 
 ## Stack
 - **Frontend** : React 18
