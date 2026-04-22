@@ -4,7 +4,7 @@ Anis AMMAR
 Ingénieur Inofrmatique + Master en web (en cours)
 2 mois ou +++ 
 
-![alt text](image.png)
+<img width="1725" height="870" alt="image" src="https://github.com/user-attachments/assets/3938c9af-4895-48bf-94fe-804c95dfc995" />
 
 ## Stack
 - **Frontend** : React 18
