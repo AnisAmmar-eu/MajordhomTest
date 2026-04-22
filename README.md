@@ -14,7 +14,6 @@ Ingénieur Inofrmatique + Master en web (en cours)
 ```bash
 cd backend
 npm install
-# Copier .env.example en .env et adapter MONGODB_URI si besoin
 node server.js
 ```
 
